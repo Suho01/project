@@ -32,7 +32,7 @@ $apps.forEach((e, i) => {
     });
 
     let array = [
-        "url('/images/creamsoda_baekhyun.jpg') no-repeat",
+        "url('images/creamsoda_baekhyun.jpg') no-repeat",
         "url('../images/creamsoda_chanyeol.jpg') no-repeat",
         "url('../images/creamsoda_chen.jpg') no-repeat",
         "url('../images/creamsoda_do.jpg') no-repeat",
